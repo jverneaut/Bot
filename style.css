@@ -1,0 +1,18 @@
+input.error {
+  border: 1px solid red;
+}
+
+body {
+  font-family: sans-serif;
+  padding: 80px;
+  background: #f7f7f7;
+}
+
+button,
+input {
+  border: 1px solid #e3e3e3;
+  padding: 16px;
+  outline: none;
+  font-size: 20px;
+  border-radius: 8px;
+}
